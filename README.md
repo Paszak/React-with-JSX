@@ -1,3 +1,4 @@
-# zadanie_14_7
-JSX
-https://paszak.github.io/zadanie_14_7/
+# React-with-JSX
+JSX w React
+
+https://paszak.github.io/React-with-JSX
